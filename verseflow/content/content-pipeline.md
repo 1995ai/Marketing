@@ -1,7 +1,7 @@
 # VerseFlow Content Pipeline Design — AI-Assisted Social Media
 > Last Updated: 2026-03-24
 > Purpose: 4-level content pipeline (A/B/C/D) for VerseFlow social media
-> Status: ACTIVE — Matthew approved, pending Matt/Jeff alignment conversation
+> Status: ACTIVE — Matt/Jeff alignment complete 2026-03-24
 > Owner: Jeff (execution), Matt (final approval, brand direction)
 
 ---
@@ -23,16 +23,16 @@
 
 These need answers before the pipeline can run. Matt and Jeff to align on this call.
 
-| # | Question | Options | Decision |
-|---|----------|---------|---------|
-| 1 | **Who posts?** At 24 posts/week, are Matt and Jeff posting manually or using Buffer from day 1? | Manual now → Buffer when it grows (Matt's lean) vs. Buffer from week 1 | |
-| 2 | **Who owns the content calendar?** Monthly theme + 30-day scripture curation | Matt owns scripture, Jeff owns calendar structure | |
-| 3 | **Voiceover for Reels** — who records, and is AI voiceover acceptable? | Matt records, Jeff records, AI voiceover, or mix per piece | |
-| 4 | **Who reviews Level B drafts?** Monday morning 30-min batch review | Matt reviews, Jeff reviews, or both in async thread | |
-| 5 | **Canva templates** — who designs the 4-5 base templates? | Jeff designs, Cowork designs, or both | |
-| 6 | **TikTok timing** — start now or Month 2? | IG + FB first (Matt's lean from action matrix) vs. all platforms now | |
-| 7 | **Buffer or manual?** If manual now, at what volume do we flip to Buffer? | Define the trigger (e.g., "when we add 2nd project or hit 30 posts/week") | |
-| 8 | **Calendar sync** — how do Matt and Jeff share the content calendar? | Google Sheet, shared Drive doc, or markdown in repo | |
+| # | Question | Decision |
+|---|----------|---------|
+| 1 | **Who posts?** | ✅ Jeff posts manually. Buffer activates when new revenue or new project launches. |
+| 2 | **Who owns content calendar?** | ✅ Jeff leads calendar structure. Matt async on scripture. Sentinel generates monthly theme suggestions in AI-friendly format. |
+| 3 | **Voiceover for Reels** | ✅ Jeff leads, Matt async. AI voiceover (ElevenLabs female voice) is an option — per-piece decision. Matt: evaluate ElevenLabs. |
+| 4 | **Who reviews Level B drafts?** | ✅ Cowork designs, Jeff reviews, Matt async. |
+| 5 | **Canva templates + watermark** | ✅ Two versions of every static post: one watermarked, one clean. Cowork creates both. |
+| 6 | **TikTok timing** | ✅ TikTok when new project launches or significant growth. IG + FB primary now. |
+| 7 | **Buffer trigger** | ✅ Same as #1: new revenue or new project. Not volume-based. |
+| 8 | **Calendar sync** | ✅ Aligned. Sentinel generates monthly themes. Format TBD by Jeff. |
 
 ---
 

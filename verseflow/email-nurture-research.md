@@ -1,8 +1,18 @@
 # Research: Email Nurture Tool Selection + Canva Automation for VerseFlow
 
-> Last Updated: 2026-03-23
+> Last Updated: 2026-03-24
 > Agent: Sentinel (on-demand research)
 > Sources: 14 sources consulted
+
+## Decisions — Matt/Jeff Alignment 2026-03-24
+
+| # | Question | Decision |
+|---|----------|---------|
+| E1 | **Who sets up Loops.so?** | ✅ **Jeff sets up.** |
+| E2 | **Can we email Apple Sign-In users?** | ✅ **No — Apple private relay blocks marketing email. Exception: some users may share real email. Majority unreachable via email. Push notifications are primary re-engagement channel.** |
+| E3 | **Who owns email content creation?** | ✅ **Cowork drafts, Jeff executes.** |
+
+**Priority note:** Email nurture is secondary to onboarding improvements. Fix onboarding first (add optional email capture screen), then build Loops sequences. Don't invest in Loops setup until email capture yields real addresses.
 
 ## Sources Read
 

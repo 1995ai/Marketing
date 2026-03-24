@@ -359,13 +359,16 @@ Share these with every partner:
 
 ---
 
-## 9. Decision Points for Matthew
+## 9. Decision Points — Answered 2026-03-24
 
-1. **Approve Phase 1 budget?** $500-1,000/month for 2-3 nano-micro influencers. Low risk, tests the pipeline.
-2. **Promo code onboarding field**: This requires a code change. Who builds it? When?
-3. **UTM landing pages**: Who sets up `verseflow.app/[name]` pages? Sentinel can draft them but someone needs to deploy.
-4. **Graph API access for Sentinel**: Once provided, Sentinel can automate candidate discovery at scale.
-5. **Does Jeff have bandwidth?** Jeff owns Hammer Golf + NinetyFive consulting + VerseFlow. Influencer relationship management takes 3-5 hours/week. Is this realistic in his current load?
+| # | Question | Decision |
+|---|----------|---------|
+| i1 | **Approve Phase 1 budget?** $500-1,000/month for 2-3 nano-micro influencers. | ⏸️ **Deferred.** Jeff will run finance report. Revisit as action item next week. |
+| i2 | **Promo code onboarding field**: Code change required. Who builds it? | ✅ **Proceed.** |
+| i3 | **UTM landing pages**: Who sets up `verseflow.app/[name]` pages? | ✅ **Matt is doing it now.** |
+| i4 | **Graph API access for Sentinel**: Automate candidate discovery at scale. | ✅ **Matt provides access — tied to onboarding changes timeline. Sentinel ready to activate.** |
+| i5 | **Does Jeff have bandwidth?** 3-5 hours/week for influencer management. | ✅ **Proceed. Jeff will implement.** |
+| i6 | **Who manages influencer relationships?** | ✅ **Jeff.** |
 
 ---
 
