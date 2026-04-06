@@ -1,7 +1,7 @@
 # Church Outreach — Campaign Tracker
-Last Updated: 2026-04-03
+Last Updated: 2026-04-06
 
-## Campaign Status: APPROVED — Automation build in progress
+## Campaign Status: READY TO SEND — promo code live, emails finalized
 
 ## Conversion Goal
 Youth pastor or admin replies → demo scheduled → church signs up for VerseFlow group plan
@@ -10,7 +10,8 @@ Youth pastor or admin replies → demo scheduled → church signs up for VerseFl
 - **Senders:** Matt (matt@myverseflow.app) + Jeff (jeff@myverseflow.app)
 - **Reply-to:** matt@myverseflow.app, jeff@myverseflow.app
 - **Landing URL:** https://myverseflow.app
-- **Trial offer:** 30 days free (pending Jeff confirmation) — based on research: 30-day usage → very low churn
+- **Trial offer:** 30 days free via Apple offer code **RISEUP** (500 uses, expires May 31, 2026)
+- **Redemption link:** https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 - **Social proof:** AI-crafted quotes using taste research + real quotes from kids who use the app (TBD)
 
 ## Phases

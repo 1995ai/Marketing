@@ -1,6 +1,6 @@
 # Church Outreach Email Sequence -- VerseFlow
-> Last Updated: 2026-03-21
-> Status: Draft -- awaiting Matthew review
+> Last Updated: 2026-04-06
+> Status: READY TO SEND — promo code live, emails finalized
 
 ## Overview
 
@@ -10,7 +10,7 @@
 
 **Personalization opportunities:** Church name, pastor's first name, city, any reference to their youth ministry program name if publicly available. The more specific the opening line, the higher the reply rate.
 
-**Core offer:** Free extended trial for their youth group (length TBD by Matthew -- recommend 30 days). No credit card, no commitment. Just try it.
+**Core offer:** First month free via Apple offer code **RISEUP** — redeemable at https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP (500 uses, expires May 31, 2026). No credit card required.
 
 ---
 
@@ -26,13 +26,15 @@ Here's the short version: VerseFlow gives students a 3-minute daily session -- o
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
-I'd love to offer your youth group a free extended trial -- no cost, no credit card. If your students get something out of it, great. If not, no hard feelings.
+I'd love to offer your youth group the first month free -- no credit card, no commitment. Just use the code **RISEUP** in the App Store or tap this link:
 
-Would that be worth a quick look? Happy to send you a link or jump on a 5-minute call.
+https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
+
+If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call if you have questions.
 
 -- Matthew
 Founder, VerseFlow
-[VerseFlow website]
+https://myverseflow.app
 
 ---
 
@@ -46,9 +48,12 @@ Just circling back on my note from earlier this week.
 
 One thing I didn't mention: VerseFlow is built around brevity on purpose. Students pick a visual theme, get one passage, do a short breathing exercise, and they're done in under 3 minutes. Several users have kept daily streaks going for weeks -- the habit sticks because it doesn't ask too much.
 
-I'd be happy to set up a free group trial for [Church Name]'s youth ministry -- just say the word.
+I'd be happy to get [Church Name]'s youth ministry set up -- just use the code **RISEUP** in the App Store for a free first month:
+
+https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 
 -- Matthew
+https://myverseflow.app
 
 ---
 
@@ -60,12 +65,12 @@ Hi [First Name],
 
 I know inboxes are relentless, so this is my last follow-up.
 
-If VerseFlow ever feels like a fit for your students -- 3 minutes of scripture and breathing, no overwhelm -- the offer for a free group trial stands. No expiration.
+If VerseFlow ever feels like a fit for your students -- 3 minutes of scripture and breathing, no overwhelm -- the code RISEUP still works for a free first month in the App Store.
 
 Wishing you and [Church Name] a good season ahead.
 
 -- Matthew
-[VerseFlow website]
+https://myverseflow.app
 
 ---
 
@@ -77,12 +82,16 @@ Wishing you and [Church Name] a good season ahead.
 - **City/region** -- Can be added to Email 1 opener if doing local outreach (e.g., "I'm based in Michigan and reaching out to churches in the [City] area").
 - **Denomination awareness** -- The emails are written to work for both Protestant and Catholic recipients. No denomination-specific language used. If targeting Catholic parishes specifically, consider changing "youth group" to "youth ministry" throughout (both work, but Catholic parishes tend toward "ministry").
 
-## What Needs to Be Filled In
+## Resolved Items
 
-- **[VerseFlow website]** -- Verify the live URL before sending. Believed to be verseflow.app but UNVERIFIED.
-- **App Store link** -- Consider adding a direct iOS App Store link in Email 1 signature or as a PS line. Need confirmed URL.
-- **Free trial length** -- Emails reference "free extended trial" but don't specify duration. Matthew should decide: 14 days? 30 days? Longer for group trials?
-- **Group trial mechanism** -- How does a group trial actually work in the app? Promo code? Manual account setup? This needs to exist before sending.
-- **Social proof line (Email 2)** -- Currently references "several users have kept daily streaks going for weeks." This is based on 0% churn / 7 paid subscribers. If Matthew has a specific streak stat or user quote, swap it in.
-- **Reply-to address** -- These should come from Matthew's personal or founder email, not a noreply address. Confirm which email to use.
-- **CAN-SPAM compliance** -- If sending at scale, emails need a physical mailing address and unsubscribe option. For small manual outreach (under ~50), this is less critical but still good practice.
+- ✅ **Website URL:** https://myverseflow.app
+- ✅ **Promo code:** RISEUP — first month free, 500 uses, expires May 31, 2026
+- ✅ **Redemption link:** https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
+- ✅ **Reply-to:** matt@myverseflow.app / jeff@myverseflow.app
+- ✅ **Trial length:** 30 days (first month free via Apple offer code)
+
+## Still Open
+
+- **Social proof line (Email 2)** -- References "several users have kept daily streaks going for weeks." Swap in a specific stat or user quote if available.
+- **Android equivalent** -- RISEUP code is iOS only. Need a Google Play promo code for Android churches. Can create in Google Play Console → Monetize → Promotions.
+- **CAN-SPAM** -- Under 50 manual sends, low risk. Add physical address to signature if scaling beyond that.
