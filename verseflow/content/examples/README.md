@@ -1,4 +1,4 @@
-# VerseFlow Content Examples
+# Verseflow Content Examples
 
 > Last Updated: 2026-03-23
 
@@ -9,7 +9,7 @@ Cowork uses these as reference for brand voice alignment.
 - Social posts that performed well (screenshot or copy)
 - Video content (clips, reels)
 - Copy samples (captions, email subject lines that worked)
-- Any creative that represents the VerseFlow brand at its best
+- Any creative that represents the Verseflow brand at its best
 
 ## Naming convention
 `YYYY-MM-DD-platform-brief-description.ext`

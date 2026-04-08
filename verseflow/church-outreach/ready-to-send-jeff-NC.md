@@ -21,9 +21,9 @@
 
 Hi Michelle,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly. Myers Park Presbyterian is one of those churches I've heard about for years, and your work with youth and families there is exactly the kind of ministry this was built for.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly. Myers Park Presbyterian is one of those churches I've heard about for years, and your work with youth and families there is exactly the kind of ministry this was built for.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -34,7 +34,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call if you have questions.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -45,9 +45,9 @@ https://myverseflow.app
 
 Hi Jeremy,
 
-I'm Matthew — I built a faith app called VerseFlow and I wanted to reach out directly. I saw that Summit hosted a generative AI bootcamp for church leaders recently — you're clearly thinking about how technology fits into ministry, which is exactly the conversation I've been having.
+I'm Matthew — I built a faith app called Verseflow and I wanted to reach out directly. I saw that Summit hosted a generative AI bootcamp for church leaders recently — you're clearly thinking about how technology fits into ministry, which is exactly the conversation I've been having.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -58,7 +58,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 With 12 campuses, even a small pilot at one location could be meaningful. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -69,9 +69,9 @@ https://myverseflow.app
 
 Hi Claire,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -82,7 +82,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -93,9 +93,9 @@ https://myverseflow.app
 
 Hi Kate,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly. I noticed Christ Church recently launched MinistryPlatform and your new church app — you're clearly a congregation that thinks about how digital tools serve the community, which is why I wanted to reach out.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly. I noticed Christ Church recently launched MinistryPlatform and your new church app — you're clearly a congregation that thinks about how digital tools serve the community, which is why I wanted to reach out.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -106,7 +106,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -117,9 +117,9 @@ https://myverseflow.app
 
 Hi Maggie,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly. I know you joined Central's team recently as Director of Children & Youth Discipleship — congrats on the role. Starting fresh is always a good time to try new tools.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly. I know you joined Central's team recently as Director of Children & Youth Discipleship — congrats on the role. Starting fresh is always a good time to try new tools.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -130,7 +130,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If they get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -141,9 +141,9 @@ https://myverseflow.app
 
 Hi Tim,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly. With 15+ years in the Diocese of Raleigh and programs like Mercy Camp, you clearly know what it takes to engage young people in their faith long-term.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly. With 15+ years in the Diocese of Raleigh and programs like Mercy Camp, you clearly know what it takes to engage young people in their faith long-term.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -154,7 +154,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 Something simple students could use between your programs to keep the habit going daily. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -165,9 +165,9 @@ https://myverseflow.app
 
 Hi Elizabeth,
 
-I'm Matthew — I built a faith app called VerseFlow and wanted to reach out directly. I love that Holy Name's youth program includes things like the March for Life and Steubenville conferences — those are the kinds of experiences that plant deep seeds. VerseFlow is designed to be the daily watering.
+I'm Matthew — I built a faith app called Verseflow and wanted to reach out directly. I love that Holy Name's youth program includes things like the March for Life and Steubenville conferences — those are the kinds of experiences that plant deep seeds. Verseflow is designed to be the daily watering.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session — one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -178,7 +178,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call.
 
 — Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -198,6 +198,6 @@ Sentinel is researching 50-75 more NC churches with verified emails. Next batch 
 
 ## Android Note
 RISEUP is iOS only. Create the Android equivalent:
-1. Google Play Console → VerseFlow → Monetize → Promotions
+1. Google Play Console → Verseflow → Monetize → Promotions
 2. Create promo code for 30-day free trial
 3. Add Android redemption link to emails when available

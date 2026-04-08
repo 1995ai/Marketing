@@ -56,11 +56,11 @@
 - 1 in 3 US adults trust AI spiritual advice as much as a pastor. Gen Z/Millennials: 2 in 5.
 - LDS Church deployed AI search in General Handbook app — denominations going internal AI.
 
-## VerseFlow Implications
-1. Hallow's cross-denominational creep continues — VerseFlow's window to own non-denominational/intentional positioning narrows each quarter.
+## Verseflow Implications
+1. Hallow's cross-denominational creep continues — Verseflow's window to own non-denominational/intentional positioning narrows each quarter.
 2. AI Scripture accuracy gap = still the open opportunity. No one has shipped a reliable solution.
 3. Demographic tailwind: secularization plateau confirmed (Pew). Gen Z churchgoers at 1.9 weekends/month — most active generation in 5 years.
 
 ## Action Items Flagged
-- ⚠️ Pushpay's "Pushpay Goes" church planter grant warrants monitoring — free enterprise tech stack for church planters directly competes with VerseFlow's church partnership funnel. Not an inbox trigger (it's a giving/ChMS play, not a devotional play) but worth tracking.
+- ⚠️ Pushpay's "Pushpay Goes" church planter grant warrants monitoring — free enterprise tech stack for church planters directly competes with Verseflow's church partnership funnel. Not an inbox trigger (it's a giving/ChMS play, not a devotional play) but worth tracking.
 - No direct action triggers met this run. Hallow's Eastern expansion is liturgical broadening, not intentional/minimalist positioning.

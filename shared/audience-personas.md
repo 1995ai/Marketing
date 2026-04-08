@@ -1,7 +1,7 @@
 # Audience Personas — 1995ai Cross-Project
 Last Updated: 2026-03-22
 
-## VerseFlow
+## Verseflow
 - **Gen Z believers** — wants quick scripture hits, anti-doom-scroll, 3-minute devotional
 - **Busy Moms** — needs accessible daily faith content, community connection
 

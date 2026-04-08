@@ -1,4 +1,4 @@
-# Research: Email Nurture Tool Selection + Canva Automation for VerseFlow
+# Research: Email Nurture Tool Selection + Canva Automation for Verseflow
 
 > Last Updated: 2026-03-24
 > Agent: Sentinel (on-demand research)
@@ -59,11 +59,11 @@
 
 ## Recommendation: Loops.so
 
-**For where VerseFlow is right now, Loops.so is the clear pick.** Here is the rationale:
+**For where Verseflow is right now, Loops.so is the clear pick.** Here is the rationale:
 
 **Why Loops wins:**
 - Native Supabase integration. This is the decisive factor. No custom Edge Functions, no middleware, no n8n. Configure a database webhook in Supabase, point it at Loops, done. New trial users auto-sync.
-- Purpose-built for SaaS trial nurture. The entire product is designed around the exact workflow VerseFlow needs: user signs up, enters trial, receives automated sequence, converts or churns.
+- Purpose-built for SaaS trial nurture. The entire product is designed around the exact workflow Verseflow needs: user signs up, enters trial, receives automated sequence, converts or churns.
 - 1,000 contacts on free tier with full automation. At 23 subscribers, that gives massive runway before hitting a paywall.
 - Clean API for transactional emails too -- password resets, trial expiry notices, etc., all in one platform. No need for a separate SendGrid/Mailgun setup.
 - Simple pricing with no feature gates. Every tier gets the full product.
@@ -116,7 +116,7 @@ The Canva MCP is available as a Claude Connector (free on all Claude plans for b
 | Swap images in templates | Only via Autofill | Only via Autofill | **Enterprise only** |
 | Use AI to generate design from prompt | YES (via MCP interactive) | NO (AI not exposed via API) | Claude paid plan |
 
-**Bottom line:** You can ask Claude to "create a VerseFlow social post about daily devotionals" via the MCP connector and Canva AI will generate a design. But systematically filling branded templates with swapped text/images at scale requires Enterprise, which is not justified at this stage.
+**Bottom line:** You can ask Claude to "create a Verseflow social post about daily devotionals" via the MCP connector and Canva AI will generate a design. But systematically filling branded templates with swapped text/images at scale requires Enterprise, which is not justified at this stage.
 
 ## 4. Effort to Connect Canva to Cowork (Claude Desktop)
 
@@ -145,18 +145,18 @@ That is a 5-minute setup. The interactive MCP app lets you see and refine design
 
 **Right now (0-6 months):** Use the Canva MCP connector in Cowork for on-demand design work. Matthew or Cowork describes what is needed, Claude creates it via Canva AI inside the chat, iterates on it, exports. This costs nothing beyond the existing Claude plan and a free/Pro Canva account. It handles the current volume (a few posts per week) without any infrastructure.
 
-**When volume increases:** If VerseFlow content needs scale to 3+ posts/day or templated batch generation (e.g., "generate 30 daily verse posts for the month"), move to **Bannerbear** or **Placid.app**. These are purpose-built for the "design template + dynamic data = auto-generated image" pipeline. Bannerbear at $49/mo gives 1,000 images/month, which is more than enough.
+**When volume increases:** If Verseflow content needs scale to 3+ posts/day or templated batch generation (e.g., "generate 30 daily verse posts for the month"), move to **Bannerbear** or **Placid.app**. These are purpose-built for the "design template + dynamic data = auto-generated image" pipeline. Bannerbear at $49/mo gives 1,000 images/month, which is more than enough.
 
 **Do not pursue Canva Autofill API.** The Enterprise requirement makes it a non-starter at this stage. The MCP connector gives you 80% of the value for interactive use, and Bannerbear/Placid give you the remaining 20% (batch automation) at a fraction of Enterprise cost.
 
-**Specific next step for Cowork:** Enable the Canva connector in Claude Desktop. Test it by asking Claude to create a VerseFlow social post. Evaluate whether the output quality meets the bar. If yes, this becomes the standard workflow for social content. If not, a human designs templates in Canva, and Cowork drafts the copy/specs.
+**Specific next step for Cowork:** Enable the Canva connector in Claude Desktop. Test it by asking Claude to create a Verseflow social post. Evaluate whether the output quality meets the bar. If yes, this becomes the standard workflow for social content. If not, a human designs templates in Canva, and Cowork drafts the copy/specs.
 
 ---
 
 ## So What?
 
 Two decisions needed:
-1. **Email tool:** Set up Loops.so with the Supabase webhook integration. Estimated 2-4 hours of work. This unblocks the 7-day trial nurture sequence, which is the highest-leverage marketing automation VerseFlow can build right now.
+1. **Email tool:** Set up Loops.so with the Supabase webhook integration. Estimated 2-4 hours of work. This unblocks the 7-day trial nurture sequence, which is the highest-leverage marketing automation Verseflow can build right now.
 2. **Design automation:** Enable Canva MCP in Cowork for immediate use. Defer any paid design API (Bannerbear/Placid) until content volume justifies it.
 
 ## Unverified / Flagged
@@ -167,6 +167,6 @@ Two decisions needed:
 
 ## Follow-Up Questions
 
-- Does VerseFlow currently collect email addresses at any point in the trial signup flow? If not, that needs to be added before any email tool matters.
+- Does Verseflow currently collect email addresses at any point in the trial signup flow? If not, that needs to be added before any email tool matters.
 - What Canva plan does Matthew currently have (Free, Pro, Enterprise)?
 - Should the 7-day nurture sequence be drafted as a next step after tool selection is approved?

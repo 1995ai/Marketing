@@ -1,4 +1,4 @@
-# VerseFlow 10K Plan — Week of March 23 Action Assignment Matrix
+# Verseflow 10K Plan — Week of March 23 Action Assignment Matrix
 
 > Last Updated: 2026-03-22
 > Source: verseflow-10k-subscriber-plan.md (master-plan repo)
@@ -87,7 +87,7 @@
 **9. Onboarding repair — Jeff's role**
 - Day 0 onboarding is #1 priority. Is this Matthew (product) or Jeff (engineering)?
 - Can Jeff pull RevenueCat trial funnel data, or does Matthew need to?
-- Jeff's bandwidth this week: Hammer Golf field testing + NinetyFive consulting + VerseFlow — what can actually get done?
+- Jeff's bandwidth this week: Hammer Golf field testing + NinetyFive consulting + Verseflow — what can actually get done?
 
 **10. Instagram Reels execution**
 - Plan recommends 3-4 posts/week. Who posts?
@@ -109,7 +109,7 @@
 1. **Micro-influencer research** — 10-15 Protestant faith influencers, 10K-100K followers, high engagement, 24-35 demo. Output to staging/.
 2. **ASO keyword research** — top keywords for "daily devotional," "Christian prayer app," "Bible reading plan." Draft optimized screenshot captions. Output to staging/.
 3. **7-day email nurture sequence draft** — per plan structure, ethos guardrails respected. Output to staging/ for Matthew review.
-4. **Competitive onboarding teardown** — Hallow, Pray.com, Glorify Day 0 experience. Benchmark for VerseFlow repair. Output to staging/.
+4. **Competitive onboarding teardown** — Hallow, Pray.com, Glorify Day 0 experience. Benchmark for Verseflow repair. Output to staging/.
 5. **Flag in morning brief** — "Do we have email addresses for 250 free users? Confirm before re-engagement campaign."
 
 ---
@@ -140,7 +140,7 @@
 | # | Tactic | Owner | This Week? | Blocked By |
 |---|--------|-------|-----------|------------|
 | 2.7 | ~~Decide AI video tool~~ | ~~Matthew + Jeff~~ | ✅ DECIDED | Kling 3.0 selected. Veo 3.1 on radar. |
-| 2.8 | Pilot: produce 3 AI B-roll clips for VerseFlow (Kling 3.0) | **Jeff or Cowork** | Next week | Get Kling Pro account set up |
+| 2.8 | Pilot: produce 3 AI B-roll clips for Verseflow (Kling 3.0) | **Jeff or Cowork** | Next week | Get Kling Pro account set up |
 | 2.9 | Build AI video + micro-influencer hybrid workflow | **Cowork** | Month 2 | 2.8 pilot results |
 
 **Key constraint:** Kling 3.0 (best value) has Chinese data privacy concern — not ideal for a faith brand. Veo 3.1 (Google) is the cleaner alternative at slightly higher cost-per-clip. Decision needed before any production starts.

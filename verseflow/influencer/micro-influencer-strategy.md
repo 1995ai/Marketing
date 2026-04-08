@@ -1,6 +1,6 @@
-# VerseFlow Micro-Influencer Strategy
+# Verseflow Micro-Influencer Strategy
 > Last Updated: 2026-03-23
-> Purpose: Scalable playbook for micro-influencer partnerships to drive VerseFlow installs and paid conversions
+> Purpose: Scalable playbook for micro-influencer partnerships to drive Verseflow installs and paid conversions
 > Benchmark: Lolo partnership achieved $5.71 CPI vs $10.61 industry average (46% cost reduction)
 
 ---
@@ -24,12 +24,12 @@
 - **Personal devotional content** -- shares their own quiet time, prayer life, or scripture study. Not just quoting verses, but showing what faith looks like in daily practice.
 - **Anti-performance Christianity** -- authentic, imperfect, vulnerable. Not polished megachurch aesthetic. Not prosperity gospel. Not culture war content.
 - **Short-form video native** -- already posting Reels or TikToks, not just static carousel quotes.
-- **Wellness-adjacent** -- content that touches mental health, anxiety, rest, or intentional living alongside faith. This maps directly to VerseFlow's "3 minutes. Scripture. Breathe." positioning.
+- **Wellness-adjacent** -- content that touches mental health, anxiety, rest, or intentional living alongside faith. This maps directly to Verseflow's "3 minutes. Scripture. Breathe." positioning.
 
 ### Theological Alignment (Non-Negotiable)
 
 - **Protestant/evangelical** -- mainline or nondenominational preferred. Must affirm Scripture as authoritative.
-- **No culture war content** -- accounts that spend significant time on political or divisive social topics are disqualified. VerseFlow is about closeness to God, not tribal signaling.
+- **No culture war content** -- accounts that spend significant time on political or divisive social topics are disqualified. Verseflow is about closeness to God, not tribal signaling.
 - **No prosperity gospel** -- if the feed is dominated by "God wants you wealthy," hard pass.
 - **Ecumenically warm** -- can partner across denominations without alienating segments of the audience.
 - **Theologically literate** -- doesn't need to be a seminary grad, but should handle Scripture with care and accuracy.
@@ -48,11 +48,11 @@
 - Lolo benchmark was Instagram-based; replicate what's working
 - Instagram Stories swipe-up/link stickers allow direct app store links (attribution)
 - Reels algorithm favors niche content to engaged audiences
-- Instagram audience skews 25-34 (VerseFlow's core demo)
+- Instagram audience skews 25-34 (Verseflow's core demo)
 
 **TikTok second** because:
 - Higher organic reach potential for new accounts
-- Gen Z skew is slightly younger than VerseFlow's sweet spot
+- Gen Z skew is slightly younger than Verseflow's sweet spot
 - Attribution is harder (no swipe-up equivalent in organic content)
 - AI content disclosure requirements add friction
 
@@ -82,10 +82,10 @@
 | Metric | Definition | Why It Matters |
 |--------|-----------|---------------|
 | **Organic lift** | Increase in organic installs during campaign window vs baseline | Captures unattributed installs driven by influencer exposure |
-| **Brand search lift** | "VerseFlow" Google/App Store searches during campaign | Shows awareness even when installs aren't directly tracked |
+| **Brand search lift** | "Verseflow" Google/App Store searches during campaign | Shows awareness even when installs aren't directly tracked |
 | **Content save rate** | Saves on sponsored Reels / total views | Saves signal high-intent interest; algorithm boost |
 | **Comment sentiment** | Qualitative -- are comments asking about the app? | Leading indicator of conversion intent |
-| **Follower growth** | VerseFlow IG follower increase during campaign | Secondary; awareness metric |
+| **Follower growth** | Verseflow IG follower increase during campaign | Secondary; awareness metric |
 
 ### Tracking Cadence
 
@@ -142,7 +142,7 @@ Integrate a Mobile Measurement Partner (AppsFlyer, Adjust, or Branch).
 
 **Layer 5: Post-Install Survey**
 
-Add "How did you hear about VerseFlow?" to onboarding with options: App Store search, Friend/family, Instagram, TikTok, YouTube, Church, Other.
+Add "How did you hear about Verseflow?" to onboarding with options: App Store search, Friend/family, Instagram, TikTok, YouTube, Church, Other.
 
 - Low-effort, qualitative signal
 - Not precise, but directionally useful for channel allocation
@@ -178,7 +178,7 @@ Add "How did you hear about VerseFlow?" to onboarding with options: App Store se
 **Notes:**
 - Faith/Christian niche tends to run 10-20% below general lifestyle rates because creators are often mission-motivated and more willing to partner with aligned brands at lower rates
 - Rates above assume 1 post. Negotiate package deals (3-post minimum) for 15-25% discount
-- Usage rights (reposting their content on VerseFlow channels) adds 20-50% to the base rate. Negotiate upfront.
+- Usage rights (reposting their content on Verseflow channels) adds 20-50% to the base rate. Negotiate upfront.
 
 ### Compensation Structure
 
@@ -193,10 +193,10 @@ Add "How did you hear about VerseFlow?" to onboarding with options: App Store se
 **Why hybrid works:**
 - Base fee ensures creators are compensated regardless of attribution gaps (builds goodwill)
 - Performance bonus aligns incentives without putting all risk on the creator
-- Recurring bonus incentivizes creators to mention VerseFlow organically over time, not just in paid posts
+- Recurring bonus incentivizes creators to mention Verseflow organically over time, not just in paid posts
 
 **Alternative for very small creators (10K-20K):**
-- Gifted partnership: Free premium subscription + feature on VerseFlow social + small flat fee ($50-150)
+- Gifted partnership: Free premium subscription + feature on Verseflow social + small flat fee ($50-150)
 - Many nano-creators in the faith space will post for free if they genuinely love the app. But always offer at least something.
 
 ### Monthly Budget Recommendation
@@ -219,18 +219,18 @@ The following candidates were identified through web research across influencer 
 
 **Verification needed before outreach:** Pull each account through HypeAuditor or Social Cat free engagement calculator. Check last 12 posts for brand deal frequency, theological tone, and audience quality.
 
-| # | Handle | Est. Followers | Est. Engagement | Content Type | Why They Fit VerseFlow |
+| # | Handle | Est. Followers | Est. Engagement | Content Type | Why They Fit Verseflow |
 |---|--------|---------------|----------------|-------------|----------------------|
 | 1 | **@she_lives_loved** (Megs) | ~45K | ~4-5% (niche Bible journaling community) | Bible study journaling, daily quiet time, faith-filled reflections | Perfect overlap: daily scripture practice, "finding joy in a quiet life," anti-hustle, devotional-focused. Audience is women 24-35 doing daily Bible study. Direct match for "3 minutes with God." |
 | 2 | **@ashleysbiblestudy** (Ashley) | ~44K | ~4-6% (estimated, niche devotional) | Daily Bible study encouragement, digging deep into Scripture | Encourages others to study Scripture daily. Authentic voice, not polished. Her audience actively studies the Bible, meaning they would naturally adopt a daily devotional app. |
-| 3 | **@drcourtneymiller** (Dr. Courtney Miller) | ~43K | ~3-5% (estimated) | Faith + psychology, helping women thrive, pastor + psychologist | Faith-meets-mental-health crossover is exactly VerseFlow's "breathe + scripture" positioning. Licensed psychologist adds credibility. Anti-anxiety angle aligns with breathing devotional. |
-| 4 | **@faithflicks** | ~15-30K (est.) | ~5-7% (estimated, small niche) | Quick creative scripture videos, "spiritual energy shots" | Format is nearly identical to what VerseFlow offers: short, punchy scripture content. Audience already consumes micro-devotional content. Natural alignment. |
+| 3 | **@drcourtneymiller** (Dr. Courtney Miller) | ~43K | ~3-5% (estimated) | Faith + psychology, helping women thrive, pastor + psychologist | Faith-meets-mental-health crossover is exactly Verseflow's "breathe + scripture" positioning. Licensed psychologist adds credibility. Anti-anxiety angle aligns with breathing devotional. |
+| 4 | **@faithflicks** | ~15-30K (est.) | ~5-7% (estimated, small niche) | Quick creative scripture videos, "spiritual energy shots" | Format is nearly identical to what Verseflow offers: short, punchy scripture content. Audience already consumes micro-devotional content. Natural alignment. |
 | 5 | **@dailygraceandgiggles** | ~10-25K (est.) | ~5-8% (estimated, small niche) | Faith-forward humor, coffee + Psalms memes, relatable devotional | Reaches a younger, casual Christian audience who might not seek out "serious" devotional apps but would try a 3-minute app. Humor lowers the barrier to entry. |
-| 6 | **@epicprayermoments** | ~10-25K (est.) | ~5-8% (estimated, small niche) | Cinematic prayer videos, visual worship content | Visual-first content aligns with VerseFlow's breathing/scripture visual experience. Could create stunning sponsored Reels showing the app in a prayer setting. |
-| 7 | **@instabiblestudygroup** (Jennifer Belle) | ~139K | ~2-3% (larger account, lower rate typical) | Bible study tips, journaling, "your relatable Christian bestie" | Larger but highly relevant. Audience is actively doing daily Bible study. Her "relatable bestie" tone matches VerseFlow's warm-not-saccharine brand voice. Negotiate a bundle deal given larger audience. |
-| 8 | **@theseunbabara** (Seunbabara Babajide) | ~167K | ~2-3% (estimated) | Faith tools, Scripture resources, equipping believers | "Equipping people with faith tools and truth" is directly aligned with what VerseFlow is. Also runs @scripturehavenco, a Scripture resource brand, showing entrepreneurial alignment. Mid-tier budget required. |
+| 6 | **@epicprayermoments** | ~10-25K (est.) | ~5-8% (estimated, small niche) | Cinematic prayer videos, visual worship content | Visual-first content aligns with Verseflow's breathing/scripture visual experience. Could create stunning sponsored Reels showing the app in a prayer setting. |
+| 7 | **@instabiblestudygroup** (Jennifer Belle) | ~139K | ~2-3% (larger account, lower rate typical) | Bible study tips, journaling, "your relatable Christian bestie" | Larger but highly relevant. Audience is actively doing daily Bible study. Her "relatable bestie" tone matches Verseflow's warm-not-saccharine brand voice. Negotiate a bundle deal given larger audience. |
+| 8 | **@theseunbabara** (Seunbabara Babajide) | ~167K | ~2-3% (estimated) | Faith tools, Scripture resources, equipping believers | "Equipping people with faith tools and truth" is directly aligned with what Verseflow is. Also runs @scripturehavenco, a Scripture resource brand, showing entrepreneurial alignment. Mid-tier budget required. |
 | 9 | **Liana** (TikTok-first, cross-posts to IG) | ~70K+ | ~4-6% (estimated, high TikTok engagement) | Conversational scripture explainers, end times, prayer | Strong Gen Z voice. "I want to be a spokesperson for Christianity in my generation." Her explainer format could translate well to an app walkthrough or "day in my devotional life" Reel. |
-| 10 | **@praywithpals** (TikTok/IG) | ~10-20K (est.) | ~6-10% (estimated, very small niche) | Spontaneous prayer duets, everyday devotion glimpses | Community-driven prayer content. Could create a collaborative "pray with me using VerseFlow" format that encourages downloads through genuine use. Very small but highly engaged. |
+| 10 | **@praywithpals** (TikTok/IG) | ~10-20K (est.) | ~6-10% (estimated, very small niche) | Spontaneous prayer duets, everyday devotion glimpses | Community-driven prayer content. Could create a collaborative "pray with me using Verseflow" format that encourages downloads through genuine use. Very small but highly engaged. |
 
 ### Candidate Sourcing -- Next Steps for Sentinel
 
@@ -253,10 +253,10 @@ Once Matthew provides Instagram Graph API access:
 
 ### Initial DM (Instagram)
 
-Jeff sends this from a personal or VerseFlow brand account. Keep it short -- DMs over 3 sentences get ignored.
+Jeff sends this from a personal or Verseflow brand account. Keep it short -- DMs over 3 sentences get ignored.
 
 ```
-Hey [Name]! I'm Jeff with VerseFlow -- a 3-minute daily devotional app
+Hey [Name]! I'm Jeff with Verseflow -- a 3-minute daily devotional app
 (scripture + guided breathing). Your content around [specific thing they
 post about, e.g., "daily quiet time" or "faith and mental health"] really
 resonates with what we're building.
@@ -268,13 +268,13 @@ partnership? Happy to give you premium access. No strings.
 ### Follow-Up Email (If They Respond Positively)
 
 ```
-Subject: VerseFlow x [Name] -- quick details
+Subject: Verseflow x [Name] -- quick details
 
 Hi [Name],
 
 Thanks for being open to this! Here's the quick rundown:
 
-**What VerseFlow is:** A daily devotional app -- 3 minutes of scripture +
+**What Verseflow is:** A daily devotional app -- 3 minutes of scripture +
 guided breathing. We built it as an anti-doom-scroll: instead of 4 hours
 on TikTok, give God 3 minutes. Available on iOS and Android.
 
@@ -295,7 +295,7 @@ through the app and answer any questions.
 
 Best,
 Jeff
-[VerseFlow link]
+[Verseflow link]
 ```
 
 ### Key Outreach Principles
@@ -343,7 +343,7 @@ Share these with every partner:
 4. **Use your promo code.** Mention it naturally -- "I have a code for you: [CODE] for a free trial."
 5. **Tag @verseflowapp.** We'll reshare your content (with permission).
 6. **Disclose the partnership.** Use #ad or #partner. Non-negotiable for FTC compliance.
-7. **No theological claims on our behalf.** Don't say VerseFlow teaches X theology or endorses Y position. It's a devotional tool, not a doctrinal statement.
+7. **No theological claims on our behalf.** Don't say Verseflow teaches X theology or endorses Y position. It's a devotional tool, not a doctrinal statement.
 
 ---
 

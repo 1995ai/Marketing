@@ -4,7 +4,7 @@ Last Updated: 2026-04-06
 ## Campaign Status: READY TO SEND — promo codes live (iOS RISEUP + Android), app updates in review
 
 ## Conversion Goal
-Youth pastor or admin replies → demo scheduled → church signs up for VerseFlow group plan
+Youth pastor or admin replies → demo scheduled → church signs up for Verseflow group plan
 
 ## Campaign Details
 - **Senders:** Matt (matt@myverseflow.app) + Jeff (jeff@myverseflow.app)

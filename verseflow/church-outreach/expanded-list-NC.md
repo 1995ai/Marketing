@@ -1,4 +1,4 @@
-# VerseFlow Church Outreach — Expanded NC List
+# Verseflow Church Outreach — Expanded NC List
 Last Updated: 2026-04-06
 
 > **Research method:** Web search of church websites, staff pages, denomination directories

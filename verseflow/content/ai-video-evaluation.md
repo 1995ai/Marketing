@@ -1,10 +1,10 @@
-# AI Video Tool Evaluation -- VerseFlow Content Pipeline
+# AI Video Tool Evaluation -- Verseflow Content Pipeline
 > Last Updated: 2026-03-21
-> Purpose: Determine whether AI video can replace/supplement paid influencer content for VerseFlow's TikTok/Reels presence
+> Purpose: Determine whether AI video can replace/supplement paid influencer content for Verseflow's TikTok/Reels presence
 
 ## Executive Summary
 
-AI video generation has made massive leaps in early 2026 -- native audio, character consistency, vertical format support, and multi-shot sequencing are now standard features across top tools. For VerseFlow's specific use case (faith-forward, authentic, 15-60 second vertical video), the recommendation is a **hybrid approach**: use **Kling 3.0** or **Veo 3.1** for atmospheric/nature B-roll and scripture visualization clips, layer text overlays with **CapCut** or **Submagic**, and continue using paid micro-influencers for person-to-camera "testimony" and organic-feeling content. AI video cannot yet replicate the authentic human connection that performs best in faith/wellness content on TikTok -- but it can dramatically increase volume of supplementary content at a fraction of the cost. The biggest caveat: TikTok's AI content policies require disclosure, and undisclosed AI content that gets auto-detected receives severe reach penalties (73%+ suppression).
+AI video generation has made massive leaps in early 2026 -- native audio, character consistency, vertical format support, and multi-shot sequencing are now standard features across top tools. For Verseflow's specific use case (faith-forward, authentic, 15-60 second vertical video), the recommendation is a **hybrid approach**: use **Kling 3.0** or **Veo 3.1** for atmospheric/nature B-roll and scripture visualization clips, layer text overlays with **CapCut** or **Submagic**, and continue using paid micro-influencers for person-to-camera "testimony" and organic-feeling content. AI video cannot yet replicate the authentic human connection that performs best in faith/wellness content on TikTok -- but it can dramatically increase volume of supplementary content at a fraction of the cost. The biggest caveat: TikTok's AI content policies require disclosure, and undisclosed AI content that gets auto-detected receives severe reach penalties (73%+ suppression).
 
 ---
 
@@ -57,7 +57,7 @@ AI video generation has made massive leaps in early 2026 -- native audio, charac
 - **Faith/wellness content fit:** Strong for atmospheric and scenic content. Multi-shot capability allows scripture-reading sequences (e.g., nature shot > text overlay shot > breathing visual) in a single generation. Native audio means ambient sounds and music can be generated alongside visuals. Physics-accurate motion handles gentle, calming scenes well.
 - **Workflow (videos/week):** Excellent. On Pro ($37/mo), ~150 standard videos/month is far more than needed for 20 videos/month. Even Standard ($10/mo) gives ~33 videos/month. Multi-shot generation reduces post-production editing needs.
 - **Key limitation:** Kuaishou is a Chinese company subject to Chinese data laws. Privacy policy states data may be shared with third parties. This is a real concern for a faith brand. Some users report occasional "uncanny valley" artifacts on human faces.
-- **Verdict:** Recommended (with privacy caveat) -- Best value for volume social content. Multi-shot + native audio + affordable pricing is the strongest combination for VerseFlow's workflow. The data privacy concern is the main issue for a faith brand.
+- **Verdict:** Recommended (with privacy caveat) -- Best value for volume social content. Multi-shot + native audio + affordable pricing is the strongest combination for Verseflow's workflow. The data privacy concern is the main issue for a faith brand.
 
 ### OpenAI Sora 2
 
@@ -69,8 +69,8 @@ AI video generation has made massive leaps in early 2026 -- native audio, charac
   - Free tier discontinued Jan 2026
   - Typical 10-sec video: $1-5 via API
 - **Output quality for TikTok/Reels:** High quality with strong physics simulation. Natural motion, realistic lighting. "Upload Yourself" feature creates consistent characters by learning from a short recording -- powerful for brand consistency.
-- **Brand consistency:** Strong via "Upload Yourself" -- create a consistent character/spokesperson from a real person's video, then place them in any environment. This is highly relevant for VerseFlow if you want a consistent AI presenter.
-- **Faith/wellness content fit:** The "Upload Yourself" feature could theoretically create a consistent VerseFlow "guide" character. However, the content feels more cinematic than organic/authentic. Hard to make it look like casual TikTok content.
+- **Brand consistency:** Strong via "Upload Yourself" -- create a consistent character/spokesperson from a real person's video, then place them in any environment. This is highly relevant for Verseflow if you want a consistent AI presenter.
+- **Faith/wellness content fit:** The "Upload Yourself" feature could theoretically create a consistent Verseflow "guide" character. However, the content feels more cinematic than organic/authentic. Hard to make it look like casual TikTok content.
 - **Workflow (videos/week):** On Plus ($20/mo), generation limits are tight -- likely 5-10 short clips/month. Pro ($200/mo) is expensive for social content. API is more flexible but cost adds up. 4-5 videos/week is feasible but budget-intensive.
 - **Key limitation:** $200/mo Pro subscription for full access is the most expensive option. No free tier. The social app (Sora app) has a community but generates content with an obviously "AI" aesthetic. The platform is not designed for batch social media production.
 - **Verdict:** Conditional -- "Upload Yourself" is uniquely powerful for brand consistency, but pricing makes it impractical for volume social content unless already on ChatGPT Pro for other reasons.
@@ -86,10 +86,10 @@ AI video generation has made massive leaps in early 2026 -- native audio, charac
   - API: Pay-as-you-go from $5 top-up
 - **Output quality for TikTok/Reels:** Professional quality for talking-head content. Avatar IV is industry-leading for photorealistic AI presenters. However, output looks polished/corporate rather than organic/casual -- which conflicts with TikTok's raw aesthetic.
 - **Brand consistency:** Excellent for presenter consistency. Create a Digital Twin once, use it across hundreds of videos with identical appearance and voice. This is HeyGen's strongest selling point.
-- **Faith/wellness content fit:** Mixed. A consistent AI presenter reading daily scripture could work as a content format, but risks feeling corporate and inauthentic -- the opposite of VerseFlow's brand. Also, TikTok's policies explicitly require labeling AI-generated realistic human faces, and audiences in the faith space especially value genuine human connection. An AI avatar delivering scripture may undermine trust.
+- **Faith/wellness content fit:** Mixed. A consistent AI presenter reading daily scripture could work as a content format, but risks feeling corporate and inauthentic -- the opposite of Verseflow's brand. Also, TikTok's policies explicitly require labeling AI-generated realistic human faces, and audiences in the faith space especially value genuine human connection. An AI avatar delivering scripture may undermine trust.
 - **Workflow (videos/week):** Efficient for the format. Write script, select avatar, generate. 4-5 avatar videos/week is easy on Creator plan. Video Agent can automate much of the process.
 - **Key limitation:** The core product is a talking AI avatar, which is inherently at odds with "authentic, not corporate" branding. Faith audiences may react negatively to an AI-generated person delivering scripture. TikTok requires labeling, and users may choose to "see less" AI content in feeds.
-- **Verdict:** Not suitable for primary VerseFlow content -- avatar format conflicts with authentic brand positioning. Could work for secondary use cases (e.g., translated versions of existing content, internal team videos, or investor communications).
+- **Verdict:** Not suitable for primary Verseflow content -- avatar format conflicts with authentic brand positioning. Could work for secondary use cases (e.g., translated versions of existing content, internal team videos, or investor communications).
 
 ### Pika 2.5
 
@@ -104,8 +104,8 @@ AI video generation has made massive leaps in early 2026 -- native audio, charac
 - **Brand consistency:** Weak. No character persistence or elements system. Each generation is essentially independent. You would need to use image-to-video with reference frames for any consistency.
 - **Faith/wellness content fit:** Moderate. The creative effects (melt, inflate) are gimmicky for faith content. Standard text-to-video is usable for nature/atmospheric B-roll. Sound effects generation is helpful. Best for quick, experimental social clips rather than a consistent content pipeline.
 - **Workflow (videos/week):** On Pro ($35/mo) with 2,300 credits, you get roughly 23 standard 10-second clips (at 100 credits each for 1080p). That is about 5/week. Unpredictable credit consumption is a pain point -- you pay for every attempt, whether it works or not.
-- **Key limitation:** Credit costs are unpredictable. Effects are more playful/experimental than what VerseFlow needs. No character persistence. Quality trails Runway and Kling for photorealistic content.
-- **Verdict:** Not suitable -- Creative effects focus does not align with VerseFlow's brand. Better tools exist at similar or lower price points.
+- **Key limitation:** Credit costs are unpredictable. Effects are more playful/experimental than what Verseflow needs. No character persistence. Quality trails Runway and Kling for photorealistic content.
+- **Verdict:** Not suitable -- Creative effects focus does not align with Verseflow's brand. Better tools exist at similar or lower price points.
 
 ### Seedance 2.0 (ByteDance)
 
@@ -142,7 +142,7 @@ AI video generation has made massive leaps in early 2026 -- native audio, charac
 
 ## Workflow Recommendation
 
-If VerseFlow adopts AI video for content pipeline, here is the recommended workflow:
+If Verseflow adopts AI video for content pipeline, here is the recommended workflow:
 
 ### Recommended Stack
 1. **Primary generation:** Kling 3.0 Pro ($37/mo) -- best volume/price ratio, multi-shot capability, native audio, vertical format support
@@ -161,7 +161,7 @@ If VerseFlow adopts AI video for content pipeline, here is the recommended workf
 - **Theological accuracy:** Every scripture reference must be human-verified before posting.
 - **Brand review:** AI output needs visual review for consistency, accidental artifacts, or anything off-brand.
 - **TikTok labeling:** All AI-generated content MUST be self-labeled. Getting auto-detected without self-labeling results in 73%+ reach suppression.
-- **Tone check:** AI-generated content can feel "stock-footage-y." Human curation ensures it matches VerseFlow's authentic, warm brand.
+- **Tone check:** AI-generated content can feel "stock-footage-y." Human curation ensures it matches Verseflow's authentic, warm brand.
 
 ### Estimated Time Investment
 - AI generation + prompting: 2-3 hours/week
@@ -178,7 +178,7 @@ If VerseFlow adopts AI video for content pipeline, here is the recommended workf
 - **Speed:** Generate a clip in minutes vs. days of influencer coordination.
 - **Control:** Full creative control over every frame. No back-and-forth on creative briefs.
 - **Consistency:** Once you dial in a visual style, AI reproduces it reliably.
-- **Scale:** Same workflow produces content for VerseFlow, breathing app, Bible context app, etc.
+- **Scale:** Same workflow produces content for Verseflow, breathing app, Bible context app, etc.
 - **Iteration:** A/B test different visuals for the same scripture instantly.
 
 ### Where Influencers Win
@@ -231,13 +231,13 @@ If VerseFlow adopts AI video for content pipeline, here is the recommended workf
 
 ## Open Questions
 
-1. **Test before committing:** Run a 2-week pilot generating 6-8 AI clips with Kling 3.0 (free tier offers 66 credits/day) to evaluate actual output quality for VerseFlow's brand.
-2. **Audience reaction:** Does the VerseFlow audience respond differently to labeled AI content vs. organic influencer content? Track engagement metrics (saves, shares, comments) separately.
-3. **TikTok algorithm impact:** Monitor whether self-labeled AI content actually reaches VerseFlow's target audience or gets filtered by users who toggle "see less" on AI content.
-4. **Data privacy:** Is Kling's Chinese data jurisdiction acceptable for VerseFlow's brand risk profile? If not, Veo 3.1 (Google, US-based) is the safer alternative, though less feature-rich for this use case.
+1. **Test before committing:** Run a 2-week pilot generating 6-8 AI clips with Kling 3.0 (free tier offers 66 credits/day) to evaluate actual output quality for Verseflow's brand.
+2. **Audience reaction:** Does the Verseflow audience respond differently to labeled AI content vs. organic influencer content? Track engagement metrics (saves, shares, comments) separately.
+3. **TikTok algorithm impact:** Monitor whether self-labeled AI content actually reaches Verseflow's target audience or gets filtered by users who toggle "see less" on AI content.
+4. **Data privacy:** Is Kling's Chinese data jurisdiction acceptable for Verseflow's brand risk profile? If not, Veo 3.1 (Google, US-based) is the safer alternative, though less feature-rich for this use case.
 5. **Scripture overlay workflow:** Test the actual workflow of generating a Kling/Veo clip + adding scripture text in CapCut. How many minutes per finished video? Is it actually faster than briefing an influencer?
-6. **EU AI Act (Aug 2026):** If VerseFlow targets any European users, mandatory AI disclosure requirements start Aug 2, 2026 with fines up to EUR 15M or 3% of global turnover. Compliance workflow needs to be in place.
-7. **Authenticity test:** Show 5 AI-generated VerseFlow clips and 5 influencer clips to 10 people in target audience. Can they tell the difference? Do they care?
+6. **EU AI Act (Aug 2026):** If Verseflow targets any European users, mandatory AI disclosure requirements start Aug 2, 2026 with fines up to EUR 15M or 3% of global turnover. Compliance workflow needs to be in place.
+7. **Authenticity test:** Show 5 AI-generated Verseflow clips and 5 influencer clips to 10 people in target audience. Can they tell the difference? Do they care?
 
 ---
 

@@ -1,6 +1,6 @@
-# VerseFlow Content Pipeline Design — AI-Assisted Social Media
+# Verseflow Content Pipeline Design — AI-Assisted Social Media
 > Last Updated: 2026-03-24
-> Purpose: 4-level content pipeline (A/B/C/D) for VerseFlow social media
+> Purpose: 4-level content pipeline (A/B/C/D) for Verseflow social media
 > Status: ACTIVE — Matt/Jeff alignment complete 2026-03-24
 > Owner: Jeff (execution), Matt (final approval, brand direction)
 

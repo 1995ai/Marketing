@@ -3,7 +3,7 @@
 > Agent: Religious Trends | Run: 2026-04-08
 
 ## Top Findings
-- **PrayScreen hit $50K MRR in 90 days** via organic TikTok (7 accounts, zero paid ads). Core pitch: "turn screen time into a faith-based ritual." Closest competitor to VerseFlow's intentional/daily positioning.
+- **PrayScreen hit $50K MRR in 90 days** via organic TikTok (7 accounts, zero paid ads). Core pitch: "turn screen time into a faith-based ritual." Closest competitor to Verseflow's intentional/daily positioning.
 - **Hallow Tucker Carlson backlash** reveals identity tension — criticized for broadening beyond Catholic identity. 40% of users already non-Catholic.
 - **Young adults now the most regular churchgoers** — Gen Z 1.9x/month, Millennials 1.8x/month, nearly double pandemic lows.
 - **FaithTime launched Gen Z content hub** — AI devotional app targeting 18-28 with "peace and genuine connection" messaging and live prayer rooms.
@@ -37,4 +37,4 @@
 - YouVersion CEO AI stance unchanged — 15-60% Scripture misquote rate. Gap still open.
 
 ## Action Items Flagged
-- ⚠️ PrayScreen competitor signal — inbox entry written. Study TikTok playbook for VerseFlow acquisition insights.
+- ⚠️ PrayScreen competitor signal — inbox entry written. Study TikTok playbook for Verseflow acquisition insights.

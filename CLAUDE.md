@@ -6,10 +6,10 @@ Cross-project marketing assets, campaigns, and research for 1995ai portfolio.
 Primary owner: Cowork (daytime). Sentinel writes research here overnight after Matthew approval.
 
 ## Repo Structure
-- `verseflow/` — VerseFlow campaigns and content (project-first, not function-first)
+- `verseflow/` — Verseflow campaigns and content (project-first, not function-first)
   - `church-outreach/` — First active campaign. 42 NC+MI churches. Email sequence ready.
   - `content/` — Social posts, video scripts, AI tool evaluations
-  - `brand/` — VerseFlow voice and positioning
+  - `brand/` — Verseflow voice and positioning
 - `henryedu/` — Henryedu marketing (pre-launch, minimal)
 - `hammer-golf/` — Hammer Golf marketing
 - `breath-app/` — Breath App marketing (pre-launch)
@@ -25,7 +25,7 @@ Primary owner: Cowork (daytime). Sentinel writes research here overnight after M
 - Git commit + push after every write
 
 ## Active Campaign
-**VerseFlow Church Outreach** — 42 churches, email sequence ready, NOT YET SENT
+**Verseflow Church Outreach** — 42 churches, email sequence ready, NOT YET SENT
 See verseflow/church-outreach/tracking.md for status and decisions needed before launch.
 
 ## Contacts

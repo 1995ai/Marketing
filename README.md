@@ -13,7 +13,7 @@ Cross-project marketing intelligence, content, and campaigns for all 1995ai prod
 
 | Project | Status | Primary Channel |
 |---------|--------|----------------|
-| VerseFlow | Active | TikTok, Instagram, Church outreach |
+| Verseflow | Active | TikTok, Instagram, Church outreach |
 | BreathApp | Pre-launch | TBD |
 | Henryedu | Pre-launch | TBD |
 | Hammer Golf | Pre-launch | TBD |
@@ -28,7 +28,7 @@ Cross-project marketing intelligence, content, and campaigns for all 1995ai prod
 ## Structure
 
 ```
-/verseflow/      — VerseFlow-specific content and campaigns
+/verseflow/      — Verseflow-specific content and campaigns
 /breath-app/     — BreathApp content (pre-launch)
 /shared/         — Brand voice, style guide, audience personas
 /archive/        — Published and completed campaigns

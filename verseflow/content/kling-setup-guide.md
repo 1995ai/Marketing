@@ -71,11 +71,11 @@ This is the section that matters most. Be direct about the risks:
 
 **Privacy tiers:** Free tier generations may appear in public community feed. Pro and above offer private generation mode.
 
-**What this means for VerseFlow:**
+**What this means for Verseflow:**
 - Generated spiritual/faith content will likely be used to train future Kling models. A verse visualization you create could influence outputs other users get.
 - Do NOT upload proprietary brand assets, unreleased app screenshots, or anything confidential as reference images.
 - For generic atmospheric/spiritual content (sunsets, nature, abstract visuals), the risk is low — these are not proprietary.
-- For anything with VerseFlow branding or unique IP, generate locally or use a tool with stronger data isolation.
+- For anything with Verseflow branding or unique IP, generate locally or use a tool with stronger data isolation.
 
 **Bottom line:** Acceptable for atmospheric B-roll and generic spiritual visuals. Not appropriate for proprietary brand content or anything you would not want a Chinese tech company to have access to.
 
@@ -92,7 +92,7 @@ This is the section that matters most. Be direct about the risks:
 | **API** | Yes, JWT-based, straightforward | Yes, per-second billing |
 | **Best for** | Volume production, predictable billing | High-fidelity hero content |
 
-**For VerseFlow's use case (volume short-form spiritual content on a budget), Kling wins on price-to-volume ratio.** Veo 3.1 produces better cinematic output but the 8-second limit and higher cost make it less practical for batch content creation. If you ever need a single stunning hero clip, Veo is worth the per-second cost.
+**For Verseflow's use case (volume short-form spiritual content on a budget), Kling wins on price-to-volume ratio.** Veo 3.1 produces better cinematic output but the 8-second limit and higher cost make it less practical for batch content creation. If you ever need a single stunning hero clip, Veo is worth the per-second cost.
 
 **Privacy edge goes to Veo** — Google's data handling is governed by US/EU law, no Chinese data residency concern.
 

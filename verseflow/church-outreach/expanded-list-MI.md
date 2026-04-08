@@ -1,4 +1,4 @@
-# VerseFlow Church Outreach — Expanded MI List
+# Verseflow Church Outreach — Expanded MI List
 Last Updated: 2026-04-06
 
 > **Research method:** Web search of church websites, staff pages, denomination directories

@@ -1,10 +1,10 @@
-# Church Outreach Email Sequence -- VerseFlow
+# Church Outreach Email Sequence -- Verseflow
 > Last Updated: 2026-04-06
 > Status: READY TO SEND — promo code live, emails finalized
 
 ## Overview
 
-**Strategy:** Position VerseFlow as a tool youth pastors can hand to their students without guilt or complexity. The hook is TIME (3 minutes), the unlock is EASE (no overwhelm), the close is HABIT (daily routine). Every email is written from Matthew as a founder, not from a brand.
+**Strategy:** Position Verseflow as a tool youth pastors can hand to their students without guilt or complexity. The hook is TIME (3 minutes), the unlock is EASE (no overwhelm), the close is HABIT (daily routine). Every email is written from Matthew as a founder, not from a brand.
 
 **Tone:** Warm, direct, brief. Like a text from someone at your church who built something and wants to share it. No marketing-speak. No "revolutionary platform" language.
 
@@ -20,9 +20,9 @@
 
 Hi [First Name],
 
-I'm Matthew -- I built a faith app called VerseFlow and I wanted to reach out directly.
+I'm Matthew -- I built a faith app called Verseflow and I wanted to reach out directly.
 
-Here's the short version: VerseFlow gives students a 3-minute daily session -- one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
+Here's the short version: Verseflow gives students a 3-minute daily session -- one scripture passage plus a guided breathing exercise. That's it. Open, read, breathe, close. No infinite scroll, no content overload.
 
 I built it because I wanted something my own family could use without it turning into another screen time problem.
 
@@ -33,7 +33,7 @@ https://apps.apple.com/redeem?ctx=offercodes&id=6755155019&code=RISEUP
 If your students get something out of it, great. If not, no hard feelings. Happy to jump on a 5-minute call if you have questions.
 
 -- Matthew
-Founder, VerseFlow
+Founder, Verseflow
 https://myverseflow.app
 
 ---
@@ -46,7 +46,7 @@ Hi [First Name],
 
 Just circling back on my note from earlier this week.
 
-One thing I didn't mention: VerseFlow is built around brevity on purpose. Students pick a visual theme, get one passage, do a short breathing exercise, and they're done in under 3 minutes. Several users have kept daily streaks going for weeks -- the habit sticks because it doesn't ask too much.
+One thing I didn't mention: Verseflow is built around brevity on purpose. Students pick a visual theme, get one passage, do a short breathing exercise, and they're done in under 3 minutes. Several users have kept daily streaks going for weeks -- the habit sticks because it doesn't ask too much.
 
 I'd be happy to get [Church Name]'s youth ministry set up -- just use the code **RISEUP** in the App Store for a free first month:
 
@@ -65,7 +65,7 @@ Hi [First Name],
 
 I know inboxes are relentless, so this is my last follow-up.
 
-If VerseFlow ever feels like a fit for your students -- 3 minutes of scripture and breathing, no overwhelm -- the code RISEUP still works for a free first month in the App Store.
+If Verseflow ever feels like a fit for your students -- 3 minutes of scripture and breathing, no overwhelm -- the code RISEUP still works for a free first month in the App Store.
 
 Wishing you and [Church Name] a good season ahead.
 

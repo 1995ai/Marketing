@@ -3,10 +3,10 @@
 > Agent: Religious Trends | Run: 2026-03-29 (Sun)
 
 ## Top Findings
-- **Global Bible Month 2025 drove massive engagement:** YouVersion, Glorify, and Hallow united for the first time (Nov 2025). 2.6M people took the 30-Day Bible Challenge. Daily Bible use up 19% vs. November 2024. First Sunday set all-time record: 19M+ YouVersion app opens in one day. Global Bible Month 2026 planning is a potential VerseFlow participation opportunity.
-- **FaithTime launched Gen Z content hub (March 19, 2026):** AI-guided devotionals, live prayer rooms, gamification (Little Lamb companion), BibleChat. Targets ages 18-28. By METAVIBE PTE. LTD. Opposite product philosophy from VerseFlow — more features/engagement vs. minimal/intentional. Not an immediate threat but worth monitoring.
+- **Global Bible Month 2025 drove massive engagement:** YouVersion, Glorify, and Hallow united for the first time (Nov 2025). 2.6M people took the 30-Day Bible Challenge. Daily Bible use up 19% vs. November 2024. First Sunday set all-time record: 19M+ YouVersion app opens in one day. Global Bible Month 2026 planning is a potential Verseflow participation opportunity.
+- **FaithTime launched Gen Z content hub (March 19, 2026):** AI-guided devotionals, live prayer rooms, gamification (Little Lamb companion), BibleChat. Targets ages 18-28. By METAVIBE PTE. LTD. Opposite product philosophy from Verseflow — more features/engagement vs. minimal/intentional. Not an immediate threat but worth monitoring.
 - **Pushpay Goes grant for church planters (March 16, 2026):** Free enterprise tech stack for year one — giving + ChMS + branded app. Locks planters into Pushpay ecosystem from day zero. Worth tracking against Jeff's church outreach targets.
-- **Gender gap reversal in church attendance is real:** Barna data shows men now outpace women in weekly attendance (43% vs. 36%). Millennial men: 55% attended past week vs. Millennial women: 38%. Implications for VerseFlow audience targeting and the men's faith app concept.
+- **Gender gap reversal in church attendance is real:** Barna data shows men now outpace women in weekly attendance (43% vs. 36%). Millennial men: 55% attended past week vs. Millennial women: 38%. Implications for Verseflow audience targeting and the men's faith app concept.
 - **1 in 3 U.S. adults trust AI spiritual advice as much as a pastor's** (2 in 5 among Gen Z/Millennials). AI in faith is normalizing fast.
 
 ## Competitor Moves
@@ -22,7 +22,7 @@
 - Launched two devotional series in January 2026 with Tim and Demi-Leigh Tebow. Added Kel Mitchell for Bedtime Bible Stories.
 - Military program launched. CTO discussing AI video translation for global ministry.
 - Claims 17M+ users (UNVERIFIED independently).
-- Still content-heavy, celebrity-driven model. Not overlapping with VerseFlow's positioning.
+- Still content-heavy, celebrity-driven model. Not overlapping with Verseflow's positioning.
 
 ### Glorify
 - Partnered with "The Chosen" TV series for exclusive three-part devotional with cast members.
@@ -31,13 +31,13 @@
 
 ### YouVersion
 - Hit 1 billion installs (November 2025). Still 100% free.
-- Launched YouVersion Connect for churches (content publishing + analytics). Church-facing feature — worth monitoring vs. VerseFlow church partnership approach.
+- Launched YouVersion Connect for churches (content publishing + analytics). Church-facing feature — worth monitoring vs. Verseflow church partnership approach.
 - 3,500+ Bible versions in 2,300+ languages.
 
 ### FaithTime (NEW)
 - Launched Gen Z content hub March 19, 2026. AI-guided devotionals, live prayer rooms, gamification, BibleChat.
 - Targets ages 18-28. By METAVIBE PTE. LTD.
-- Opposite product philosophy from VerseFlow — maximalist engagement vs. intentional/minimal.
+- Opposite product philosophy from Verseflow — maximalist engagement vs. intentional/minimal.
 
 ### Lectio 365 / Abide / First15
 - Lectio 365 updated to v4.7.0 (Feb 2026). 330K+ users. No major news.
@@ -77,5 +77,5 @@
 
 ## Action Items Flagged
 - **FaithTime monitor:** New Gen Z faith app (March 19 launch). Not a direct threat — opposite product philosophy.
-- **Global Bible Month 2026:** VerseFlow should consider participation for Q3-Q4 planning. 2.6M challenge participants in 2025.
-- No competitor has moved toward VerseFlow's "intentional/short/get off your phone" positioning. Differentiator remains intact.
+- **Global Bible Month 2026:** Verseflow should consider participation for Q3-Q4 planning. 2.6M challenge participants in 2025.
+- No competitor has moved toward Verseflow's "intentional/short/get off your phone" positioning. Differentiator remains intact.

@@ -44,7 +44,7 @@
 
 ## Product Opportunities
 
-### VerseFlow
+### Verseflow
 - Anti-Hallow positioning: "Your prayer life isn't a product." Free core + optional premium depth.
 - Denominational depth as differentiator vs generic competitors.
 - Community without social media dynamics — private groups, not public walls.
@@ -62,6 +62,6 @@
 - Anti-addiction design: responsible alternative positioning.
 
 ## Action Items Flagged
-1. 🔴 Pain point: Hallow political + paywall backlash → VerseFlow gap: non-political, non-predatory positioning
+1. 🔴 Pain point: Hallow political + paywall backlash → Verseflow gap: non-political, non-predatory positioning
 2. 🔴 Pain point: 30% homeschool families driven by neurodivergence, no truly adaptive app → Henryedu gap: adaptive + human feedback
 3. 🔴 Pain point: DraftKings trust crisis → Hammer Golf gap: "we honor every bet" trust positioning
