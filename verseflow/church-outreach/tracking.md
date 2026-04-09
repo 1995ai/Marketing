@@ -70,7 +70,14 @@ When ready to expand beyond these 16:
 - `expanded-target-list-NC.md` — additional NC churches with research
 - `expanded-list-MI.md` / `expanded-list-NC.md` — broader lists
 
+## Quick Log (for Matt/Jeff)
+When you send an email, tell Sentinel via Telegram:
+```
+"Sent email 1 to Brightmoor and Holy Family today"
+```
+Sentinel will update this sheet and calculate follow-up dates automatically.
+
 ## Notes
-- Matt started sending MI churches Apr 7. Update rows above with actual send dates.
+- Matt started sending MI churches Apr 7. **Rows need updating** — Matt, which churches did you send to Mon/Tue? Sentinel will fill in all dates.
 - Jeff takes NC when ready.
 - Phase B (phone campaign) deferred until Phase A results are in.
