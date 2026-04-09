@@ -1,12 +1,12 @@
 # Church Outreach — Campaign Tracker
-Last Updated: 2026-04-09
+Last Updated: 2026-04-09 (Batch 2 added — 14 new MI churches)
 
 ## Campaign Status: SENDING — Matt on MI (started Apr 7), Jeff on NC (pending)
 
 ## Quick Stats
-- **Total churches:** 16 (9 MI + 7 NC)
-- **Email 1 sent:** _/16
-- **Replies:** _/16
+- **Total churches:** 30 (23 MI + 7 NC)
+- **Email 1 sent:** _/30
+- **Replies:** _/30
 - **Follow-ups due:** check Email 2 column (Day 5 after send)
 - **Promo code:** RISEUP (500 uses, expires May 31, 2026)
 
@@ -31,6 +31,25 @@ Last Updated: 2026-04-09
 | 7 | St. James Episcopal, Birmingham | Rev. Joshua Hoover | josh@stjamesbirmingham.org | | | | | | | — | |
 | 8 | Christ Church Cranbrook, Bloomfield Hills | Kellie Herdade | church@christchurchcranbrook.org | | | | | | | — | General inbox — subject addresses Kellie directly |
 | 9 | Westminster Presbyterian, Grand Rapids | Rev. Jeremy Bork | jeremyb@wpcgr.org | | | | | | | — | |
+
+## Matt — Michigan Batch 2 (14 churches)
+
+| # | Church | Contact | Email | E1 Sent | E2 Due | E2 Sent | E3 Due | E3 Sent | Reply | Status | Notes |
+|---|--------|---------|-------|---------|--------|---------|--------|---------|-------|--------|-------|
+| 10 | Orchard Grove Community, Walled Lake | Bryan & Rachel Powers | orchardgroveyouth@gmail.com | | | | | | | — | Tier 1 — grew 8→100 students |
+| 11 | Christ Church Grosse Pointe | Lisa Brown | lbrown@christchurchgp.org | | | | | | | — | Tier 1 — active confirmation program |
+| 12 | Calvary Church, Grand Rapids | Kaylynn Woznick | kwoznick@calvarygr.org | | | | | | | — | Tier 1 — dedicated MS+HS directors |
+| 13 | Rockford Reformed Church | Tim VanderZwaag | tim.v@rockfordrc.org | | | | | | | — | Tier 1 — Reformed cluster |
+| 14 | First Reformed, Zeeland | Pastor Josiah Huisman | josiah@frcz.org | | | | | | | — | Tier 1 — Reformed cluster |
+| 15 | Kalamazoo Community Church | Kenny | Kenny@mykcc.org | | | | | | | — | Tier 1 — MS/HS Sun evenings |
+| 16 | New Life Vineyard, Midland | Lee Blanchard | lee@midlandvineyard.com | | | | | | | — | Tier 1 — NextGen Pastor |
+| 17 | Oak Pointe Church, Novi | Student Ministry Dir | info@oakpointe.org | | | | | | | — | Tier 3 — relocation area, large multi-campus |
+| 18 | Grosse Pointe UMC | Youth team | office@gpumc.org | | | | | | | — | Tier 3 — general inbox |
+| 19 | Grosse Pointe Congregational | Teen Haven leaders | office@gpcong.org | | | | | | | — | Tier 3 — students lead services |
+| 20 | Hager Park Church, Jenison | Youth Director | hello@hagerpark.org | | | | | | | — | Tier 3 — Reformed cluster |
+| 21 | Christ Memorial, Holland | Youth interim | communications@christmemorial.org | | | | | | | — | Tier 3 — hiring youth director = receptive |
+| 22 | Valley Family Church, Portage | Valley Youth team | info@valleyfamilychurch.org | | | | | | | — | Tier 3 — MS/HS/YA programs |
+| 23 | First Presbyterian, Flint | Youth team | info@fpcf.org | | | | | | | — | Tier 3 — general inbox |
 
 ## Jeff — North Carolina (7 churches)
 
